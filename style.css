@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #000;
+}
+
+p{
+    text-transform: uppercase;
+    background: url(img/D85JO8UWsAAT1ZL.jpg) no-repeat center center/cover;
+    /* color: black; */
+    font-weight: 600;
+    background-attachment: fixed;
+    background-clip: text;
+    color: rgba(0, 0, 0, 0.5) ;
+}
